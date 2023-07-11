@@ -1,0 +1,23 @@
+body{
+    background-size:cover;
+    background-position-y: 790px;
+    font-family: monospace;
+}
+
+.heading{
+    font-size:18px;
+}
+
+.note{
+    font-size:14px;
+    color:black;
+}
+
+#song_name{
+    font-size: 18px;
+}
+
+canvas{
+    border: 5px dotted white;
+    border-radius: 20px;
+}
